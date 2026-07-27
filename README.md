@@ -15,7 +15,7 @@ I'm a first-generation college student who enjoys solving real-world problems th
 Currently I'm:
 - 🚀 Product Manager Intern at IBM
 - 📊 Business Analyst Intern at Rutgers University
-- 🤖 AI/Machine Learning Fellow with Break Through Tech @ Cornell Tech
+- 🤖 AI/Machine Learning Fellow with Break Through Tech
 - 🏡 Resident Assistant at Rutgers University
 - 🌱 Former AI Research Assistant through the Rutgers Aresty Research Center
 
