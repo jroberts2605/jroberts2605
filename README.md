@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a first-generation college student who enjoys solving real-world problems through technology, analytics, and product thinking.
+I'm a first-generation college student who enjoys solving real-world problems through technology, analytics, and product thinking. I plan to pursue a career in Product Management after graduation.
 
 Currently I'm:
 - 🚀 Product Manager Intern at IBM
