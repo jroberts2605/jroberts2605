@@ -1,6 +1,6 @@
 # Hi, I'm Joshua Stewart-Roberts 👋
 
-🎓 Rising Senior studying Data Science (Statistics) with a Minor in Economics at Rutgers University
+🎓 Rising Senior studying Data Science - Statistics with a Minor in Economics at Rutgers University
 
 💼 Product Manager Intern at IBM | Business Analyst Intern at Rutgers University
 
