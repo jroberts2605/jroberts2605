@@ -4,7 +4,7 @@ Rising Senior studying Data Science - Statistics with a Minor in Economics at Ru
 
 Product Manager Intern at IBM | Business Analyst Intern at Rutgers University
 
- assionate about Product Management, Data Science, Artificial Intelligence, Machine Learning, and building data-driven products.
+Passionate about Product Management, Data Science, Artificial Intelligence, Machine Learning, and building data-driven products.
 
 ---
 
