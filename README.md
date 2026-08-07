@@ -1,29 +1,29 @@
-# Hi, I'm Joshua Stewart-Roberts 👋
+# Hi, I'm Joshua Stewart-Roberts
 
-🎓 Rising Senior studying Data Science - Statistics with a Minor in Economics at Rutgers University
+Rising Senior studying Data Science - Statistics with a Minor in Economics at Rutgers University
 
-💼 Product Manager Intern at IBM | Business Analyst Intern at Rutgers University
+Product Manager Intern at IBM | Business Analyst Intern at Rutgers University
 
-🤖 Passionate about Product Management, Data Science, Artificial Intelligence, Machine Learning, and building data-driven products.
+ assionate about Product Management, Data Science, Artificial Intelligence, Machine Learning, and building data-driven products.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a first-generation college student who enjoys solving real-world problems through technology, analytics, and product thinking. I plan to pursue a career in Product Management after graduation.
 
 Currently I'm:
-- 🚀 Product Manager Intern at IBM
-- 📊 Business Analyst Intern at Rutgers University
-- 🤖 AI/Machine Learning Fellow with Break Through Tech
-- 🏡 Resident Assistant at Rutgers University
-- 🌱 Former AI Research Assistant through the Rutgers Aresty Research Center
+- Product Manager Intern at IBM
+- Business Analyst Intern at Rutgers University
+- AI/Machine Learning Fellow with Break Through Tech
+- Resident Assistant at Rutgers University
+- Former AI Research Assistant through the Rutgers Aresty Research Center
 
 I'm always looking for opportunities to build products, analyze data, and create meaningful solutions through technology.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 - Python
@@ -46,20 +46,10 @@ I'm always looking for opportunities to build products, analyze data, and create
 - VS Code
 - Streamlit
 
----
-
-## 🚀 Featured Projects
-
-**Tech:** Python • Streamlit
-
-### 🚆 Railway Data Mining
-Analyzed 3,500+ NJ Transit records to identify operational trends and improve data quality.
-
-**Tech:** Python • Pandas • Excel
 
 ---
 
-## 🏆 Experience
+## Experience
 
 - IBM — Product Manager Intern
 - Rutgers University — Business Analyst Intern
@@ -69,7 +59,7 @@ Analyzed 3,500+ NJ Transit records to identify operational trends and improve da
 
 ---
 
-## 🌱 Leadership
+## Leadership
 
 - Resident Assistant
 - Sustainability Ambassador
